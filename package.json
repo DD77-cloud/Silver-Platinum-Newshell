@@ -89,7 +89,7 @@
     "supertest-session": "^4.0.0",
     "uuidv4": "^6.0.2",
     "webpack": "^4.41.6",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "yaml": "^1.7.2"
   }
 }
